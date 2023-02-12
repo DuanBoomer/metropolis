@@ -9,17 +9,18 @@ function Navbar() {
   // }
 
   return (
-    <div className="navbar">
-      <h1 className="navbar-title">Metropoli</h1>
-        <p className="navbar-options">Categories</p>
-        <p className="navbar-options">Deals</p>
-        <p className="navbar-options">Latest</p>
-        <p className="navbar-options">Delivery</p>
-      <input className="navbar-search" placeholder="Search" type="text"/>
-      <p className="navbar-options">Account</p>
-      <p className="navbar-options">Cart</p>
-
-    </div>
+    <nav>
+      <header>Metropolis</header>
+      <ul>
+        <li><button>Categories</button></li>
+        <li><button>Deals</button></li>
+        <li><button>Latest</button></li>
+        <li><button>Delivery</button></li>
+        <li className='search'><input placeholder='Search'/></li>
+        <li><button>Cart</button></li>
+        <li><button>Account</button></li>
+      </ul>
+    </nav>
   );
 }
 
