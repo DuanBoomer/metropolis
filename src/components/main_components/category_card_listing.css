@@ -1,0 +1,14 @@
+.category-cards{
+    display: flex;
+    overflow-x: scroll;
+    gap: 2rem;
+    margin: 2rem 2.5rem;
+    padding: 2rem 0px;
+}
+
+.category-cards > *{
+    flex-grow: 1;
+    flex-basis: 1;
+    flex-shrink: 0;
+    /* background-color: red; */
+}

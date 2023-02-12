@@ -6,7 +6,7 @@ nav{
     /* border: solid 3px red; */
 }
 
-ul{
+.navbar-buttons{
     display: flex;
     margin: 0;
     padding: 0;
@@ -18,18 +18,19 @@ ul{
     /* border: solid 3px red; */
 }
 
-li{
+.navbar-buttons > li{
     flex-grow: 1;
-    flex-basis: 0;
+    flex-basis: 1;
     /* border: solid 3px rebeccapurple; */
 }
 
-li > input, button{
+.navbar-buttons > li > input, button{
     width: 100%;
 }
 
 .search{
     flex-grow: 3;
+    /* background-color: red; */
 }
 
 
@@ -39,14 +40,14 @@ nav{
     padding: 2rem;
 }
 
-header{
+.company-title{
     font-size: 3.5rem;
     padding-bottom: 1rem;
     padding-right: 1rem;
     font-weight: bold;
 }
 
-li > button{
+.navbar-buttons > li > button{
     padding: 0;
     margin: 0;
     outline: transparent;
@@ -54,23 +55,23 @@ li > button{
     background-color: transparent;
     font-size: 2rem;
     padding: 1rem 2rem;
-    border-radius: 20px;
+    border-radius: 2em;
     /* font-weight: bold; */
 }
 
-li > button:hover{
+.navbar-buttons > li > button:hover{
     background-color: black;
     color: white;
 }
 
-li > input {
+.navbar-buttons > li > input {
     outline: transparent;
     border: transparent;
     min-width: 10ch;
     padding: 0.5rem 0;
     margin: 0;
     text-indent: 2rem;
-    border-radius: 30px;
+    border-radius: 3em;
     border: 2.5px solid black;
     box-shadow: 4px 4px black;
     font-size: 2rem;
@@ -84,7 +85,7 @@ li > input {
 }
 
 @media(max-width: 800px){
-    ul{
+    .navbar-buttons{
         flex-direction: column;
     }
 }
