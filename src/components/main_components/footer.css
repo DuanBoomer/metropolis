@@ -1,0 +1,31 @@
+footer{
+    display: flex;
+    gap: 1.5vw;
+    font-size: 2rem;
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    margin-top: 15rem;
+}
+
+footer > section{
+    padding: 0 5rem;
+    /* border: solid red 3px; */
+    flex-grow: 1;
+    align-items: center;
+}
+
+footer > section > ul{
+    list-style: none;
+    padding: 0;
+}
+
+footer > section > ul > li{
+    width: max-content;
+    line-height: 3.5rem;
+    /* border: solid 3px red; */
+}
+
+footer > section > ul > li:hover{
+    cursor: pointer;
+}

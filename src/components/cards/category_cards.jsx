@@ -5,8 +5,8 @@ function CategoryCard({ title, img, number }) {
     return (
         <article className='category-card'>
             <img src={img}/>
-            <h2>{title}</h2>
-            <h3>{number}</h3>
+            <h3>{title}</h3>
+            {/* <h4>{number}</h4> */}
         </article>
         
     )

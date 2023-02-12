@@ -1,0 +1,73 @@
+.best-sellers-listing{
+    margin:4.5rem 2rem 2rem 2.5rem;
+}
+
+.best-sellers-cards{
+    display: flex;
+    overflow-x: scroll;
+    gap: 2vw;
+    padding: 3rem 0 2rem 0;
+    /* border: solid red 3px; */
+}
+
+.best-sellers-cards > *{
+    flex-shrink: 0;
+}
+
+.best-sellers-listing > h2{
+    margin: 0;
+    /* border: solid hotpink 3px; */
+    font-size: 3.5rem;
+}
+
+.best-sellers-categories{
+    /* border: 3px solid red; */
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+    padding: 0;
+    margin: 3rem 0 0 0;
+    flex-wrap: wrap;
+}
+
+.best-sellers-categories > li{
+    flex-grow: 1;
+    /* border: 3px solid rebeccapurple; */
+}
+
+.best-sellers-categories > li > button{
+    background-color: black;
+    color: white;
+    border-radius: 10rem;
+    font-size: 2.2rem;
+    border: 3px solid transparent;
+    padding: 2rem 4rem;
+
+}
+
+.best-sellers-categories > li > button:hover{
+    background-color: white;
+    color: black;
+    border-color: black;
+    
+}
+
+@media (max-width: 1000px) {
+    .best-sellers-listing > h2{
+        font-size: 2.7rem;
+    }
+
+    .best-sellers-categories > li > button{
+        font-size: 1.7rem;
+    }
+}
+@media (max-width: 800px) {
+    .best-sellers-listing > h2{
+        font-size: 2rem;
+    }
+
+    .best-sellers-categories > li > button{
+        font-size: 1.3rem;
+        padding: 1rem 3rem;
+    }
+}

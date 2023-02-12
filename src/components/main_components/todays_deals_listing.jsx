@@ -1,9 +1,9 @@
 import React from 'react';
 import ProductCard from '../cards/product_cards'
-import Listing from '../minor_components/listing'
+// import Listing from '../minor_components/listing'
 import data from '../../data/product'
-
-function ProductCardListing() {
+import './todays_deals_listing.css'
+function TodaysDealsListing() {
     const cardsss = data.map(
         function ({ img, about, price, rating, title }) {
             return <ProductCard
@@ -16,8 +16,13 @@ function ProductCardListing() {
         }
     )
     return (
-        <Listing cards={cardsss} title="Todays Best Deals For You"/>
+        <article className='product-listing'>
+            <h2>Todays Bext Deals</h2>
+            <section className='product-cards'>
+                {cardsss}
+            </section>
+        </article>
     );
 }
 
-export default ProductCardListing;
+export default TodaysDealsListing;

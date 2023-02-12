@@ -41,10 +41,11 @@ nav{
 }
 
 .company-title{
-    font-size: 3.5rem;
+    font-size: 4rem;
     padding-bottom: 1rem;
     padding-right: 1rem;
     font-weight: bold;
+    /* font-size: 2rem; */
 }
 
 .navbar-buttons > li > button{
@@ -53,7 +54,7 @@ nav{
     outline: transparent;
     border: transparent;
     background-color: transparent;
-    font-size: 2rem;
+    font-size: 2.6rem;
     padding: 1rem 2rem;
     border-radius: 2em;
     /* font-weight: bold; */
@@ -74,7 +75,17 @@ nav{
     border-radius: 3em;
     border: 2.5px solid black;
     box-shadow: 4px 4px black;
-    font-size: 2rem;
+    font-size: 2.3rem;
+}
+
+@media(max-width: 1500px){
+    .navbar-buttons > li > button{
+        font-size: 2rem;
+    }
+
+    .navbar-buttons > li > input{
+        font-size: 1.7rem;
+    }
 }
 
 
@@ -87,5 +98,18 @@ nav{
 @media(max-width: 800px){
     .navbar-buttons{
         flex-direction: column;
+        gap: 0.55rem;
+    }
+
+    .company-title{
+        font-size: 3rem;
+    }
+
+    .navbar-buttons > li > button{
+        font-size: 1.5rem;
+    }
+
+    .navbar-buttons > li > input{
+        font-size: 1.4rem;
     }
 }

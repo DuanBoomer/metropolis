@@ -1,8 +1,8 @@
-.category-listing{
+.product-listing{
     margin:4.5rem 2rem 2rem 2.5rem;
 }
 
-.category-cards{
+.product-cards{
     display: flex;
     overflow-x: scroll;
     gap: 2vw;
@@ -10,23 +10,23 @@
     /* border: solid red 3px; */
 }
 
-.category-cards > *{
+.product-cards > *{
     flex-shrink: 0;
 }
 
-.category-listing > h2{
+.product-listing > h2{
     margin: 0;
     /* border: solid hotpink 3px; */
     font-size: 3.5rem;
 }
 
 @media (max-width: 1000px) {
-    .category-listing > h2{
+    .product-listing > h2{
         font-size: 2.7rem;
     }
 }
 @media (max-width: 800px) {
-    .category-listing > h2{
+    .product-listing > h2{
         font-size: 2rem;
     }
 }
