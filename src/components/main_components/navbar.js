@@ -10,7 +10,7 @@ function Navbar() {
 
   return (
     <div className="navbar">
-      <h1 className="navbar-title">Metropolis</h1>
+      <h1 className="navbar-title">Metropoli</h1>
         <p className="navbar-options">Categories</p>
         <p className="navbar-options">Deals</p>
         <p className="navbar-options">Latest</p>
