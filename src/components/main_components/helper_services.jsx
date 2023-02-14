@@ -32,7 +32,7 @@ function HelperServices() {
     return (
         <article className='help-cards'>
             <h2>Services To Help You Shop</h2>
-            <section>
+            <section className='help-card-services'>
                 {cardsss}
             </section>
         </article>

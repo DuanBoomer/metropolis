@@ -12,7 +12,7 @@ export default [
 
     {
         img: 'black-air-sneaker.jpg',
-        about: 'For people with wings only',
+        about: 'For people with wing only',
         price: 35,
         rating: 2,
         title: 'Air Sneaker',

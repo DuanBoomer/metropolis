@@ -12,7 +12,7 @@ function ProductCard({ img, about, price, rating, title}) {
             <img src={img} alt="" />
             <p className='product-card-line-one'>
                 <span>{title}</span>
-                <span>&#8377; {price}</span>
+                <span className='product-prize'>&#8377; {price}</span>
             </p>
             <p className='product-card-line-two'>{about}</p>
             <p className='product-card-rating'>{ratingStars}</p>
