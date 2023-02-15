@@ -1,0 +1,25 @@
+.theme-toggler{
+    position: fixed;
+    background-color: var(--secondary-accent-color);
+    width: 4rem;
+    height: 5rem;
+    border-radius: 3rem;
+    margin: 2rem;
+    z-index: 2;
+    bottom: 0;
+    right: 0;
+}
+
+.theme-toggler-icon{
+    width: 100%;
+    top: 0.5rem;
+    position: relative;
+}
+
+.left{
+    left: -2rem;
+    rotate: 180deg;
+}
+.right{
+    right: -2rem;
+}
