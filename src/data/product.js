@@ -2,7 +2,7 @@ export default [
     {
         about: 'Sneakers made of grapes',
         price: 12,
-        img: 'grape-sneaker.jpg',
+        img: '//lp2.hm.com/hmgoepprod?set=source[/a7/3b/a73bfad474732c09934857f89bc2f5a7b97f9b43.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]', 'dataAltImage':'',
         rating: 1,
         title: 'Grape Sneaker',
     },

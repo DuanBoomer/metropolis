@@ -1,3 +1,14 @@
+:root{
+  --primary-color: white;
+  --secondary-color: black;
+  --shadow-color: #ff0000;
+
+  --primary-accent-color: rgb(198, 198, 198);
+  --secondary-accent-color: rgb(45, 45, 45);
+
+  --shadow-transition-delay: 150ms;
+}
+
 html{
   font-size: 10px;
 }
@@ -9,6 +20,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
 }
 
 code {
@@ -22,12 +36,12 @@ code {
 }
 
 ::-webkit-scrollbar-track{
-  background-color: rgb(194, 194, 194);
+  background-color: var(--secondary-accent-color);
   border-radius: 20px;
 
 }
 
 ::-webkit-scrollbar-thumb{
-  background-color: rgb(12, 12, 12);
+  background-color: var(--primary-accent-color);
   border-radius: 20px;
 }

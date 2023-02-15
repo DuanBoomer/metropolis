@@ -9,9 +9,11 @@ import HelperServices from './components/main_components/helper_services';
 import BestSellersListing from './components/main_components/best_sellers_listing';
 // import HelpCard from './components/cards/help_card';
 import Footer from './components/main_components/footer';
+import DarkThemeToggler from './components/cards/dark-theme/dark-theme-toggler';
 function App() {
   return (
     <div>
+      <DarkThemeToggler/>
       <Navbar />
       <Header />
       <CategoryCardListing />
