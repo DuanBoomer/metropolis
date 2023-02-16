@@ -15,7 +15,7 @@
     border-top-right-radius: var(--border-radius);
     border-top-left-radius: var(--border-radius);
     width: 100%;
-    height: 30rem;
+    height: 27rem;
     object-fit: cover;
 }
 
@@ -94,6 +94,10 @@
     .product-card > button{
         font-size: 1.2rem;
     }
+
+    .product-card > img{
+        height: 22rem;
+    }
 }
 
 @media (max-width: 800px) {
@@ -107,5 +111,9 @@
 
     .product-card > button{
         font-size: 1rem;
+    }
+
+    .product-card > img{
+        height: 16rem;
     }
 }

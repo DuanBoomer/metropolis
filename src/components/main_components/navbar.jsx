@@ -10,7 +10,7 @@ function Navbar() {
 
   return (
     <nav>
-      <header className='company-title'>Metro</header>
+      <header className='company-title'>Metropolis</header>
       <ul className='navbar-buttons'>
         <li><button>Categories</button></li>
         <li><button>Deals</button></li>
