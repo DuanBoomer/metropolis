@@ -1,0 +1,61 @@
+footer{
+    display: grid;
+    grid-template-areas: 
+    'department about services help'
+    ;
+
+    gap: 2rem;
+    font-size: 2rem;
+    background-color: black;
+    color: white;
+    /* padding: 2rem; */
+    margin-top: 15rem;
+    /* justify-content: center; */
+    /* flex-wrap: wrap; */
+}
+
+
+
+/* footer > section{ */
+    /* padding: 0 5rem; */
+    /* border: solid red 3px; */
+    /* flex-grow: 1; */
+    /* align-items: center; */
+/* } */
+
+footer > section > ul{
+    list-style: none;
+    padding: 0;
+}
+
+footer > section > ul > li{
+    width: max-content;
+    line-height: 3.5rem;
+    /* border: solid 3px red; */
+}
+
+footer > section > ul > li:hover{
+    cursor: pointer;
+}
+
+@media (max-width: 1000px) {
+    footer{
+        grid-template-areas: 
+        'department about'
+        'services help'
+        ;
+    }
+}
+
+@media (max-width: 800px) {
+    footer{
+        grid-template-areas: 
+        'department'
+        'about'
+        'services'
+        'help'
+        ;
+
+        margin-top: 8rem;
+    }
+}

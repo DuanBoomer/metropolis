@@ -1,0 +1,32 @@
+.product-listing{
+    margin:4.5rem 2rem 2rem 2.5rem;
+}
+
+.product-cards{
+    display: flex;
+    overflow-x: scroll;
+    gap: 2vw;
+    padding: 3rem 0 2rem 0;
+    /* border: solid red 3px; */
+}
+
+.product-cards > *{
+    flex-shrink: 0;
+}
+
+.product-listing > h2{
+    margin: 0;
+    /* border: solid hotpink 3px; */
+    font-size: 3.5rem;
+}
+
+@media (max-width: 1000px) {
+    .product-listing > h2{
+        font-size: 2.7rem;
+    }
+}
+@media (max-width: 800px) {
+    .product-listing > h2{
+        font-size: 2rem;
+    }
+}
