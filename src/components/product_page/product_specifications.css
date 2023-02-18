@@ -1,0 +1,33 @@
+
+
+.product-specifications > h2{
+    font-size: 4rem;
+}
+
+.product-specification-table{
+    font-size: 2rem;
+    width: 100%;
+    border: 4px var(--primary-accent-color) solid;
+    padding: 0 2rem;
+    border-spacing: 0;
+    /* border-collapse:collapse; */
+}
+
+/* .product-specification-table > tr{
+} */
+
+.product-specification-table > tr > th{
+    text-align: left;
+    /* border: 4px black solid; */
+    width: 30%;
+    padding: 2rem;
+}
+
+.product-specification-table > tr:nth-child(even){
+    background-color: var(--secondary-accent-color);
+}
+
+.product-specification-table > tr > td{
+    /* border: 4px black solid; */
+    padding: 2rem;
+}

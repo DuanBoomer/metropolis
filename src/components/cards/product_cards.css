@@ -53,7 +53,7 @@
     background-color: var(--primary-color);
     border: 3px solid var(--secondary-color);
     font-weight: bold;
-    transition-duration: var(--shadow-transition-delay);
+    /* transition-duration: var(--shadow-transition-delay); */
     /* margin: auto; */
 
     /* align-self:baseline; */

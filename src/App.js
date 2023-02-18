@@ -1,25 +1,20 @@
 
-import Navbar from './components/main_components/navbar'
-import Header from './components/main_components/banner'
-
-import CategoryCardListing from './components/main_components/category_card_listing';
-import TodaysDealsListing from './components/main_components/todays_deals_listing';
-// import BestSellersListing from './components/main_components/best_sellers_listing';
-import HelperServices from './components/main_components/helper_services';
-import BestSellersListing from './components/main_components/best_sellers_listing';
-// import HelpCard from './components/cards/help_card';
-import Footer from './components/main_components/footer';
+import { Route, Routes } from 'react-router-dom';
+import Home from './pages/home';
+import Product from './pages/product';
 import DarkThemeToggler from './components/cards/dark-theme/dark-theme-toggler';
+import Navbar from './components/main_components/navbar';
+import Footer from './components/main_components/footer';
+
 function App() {
   return (
     <div>
-      <DarkThemeToggler/>
+      <DarkThemeToggler />
       <Navbar />
-      <Header />
-      <CategoryCardListing />
-      <TodaysDealsListing/>
-      <BestSellersListing/>
-      <HelperServices/>
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='/product' element={<Product />} />
+      </Routes>
       <Footer/>
     </div>
   );

@@ -30,6 +30,11 @@ code {
     monospace;
 }
 
+button{
+  cursor: pointer;
+  transition-duration: var(--shadow-transition-delay);
+}
+
 ::-webkit-scrollbar{
   width: 0px;
   height: 10px;
