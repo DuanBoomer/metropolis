@@ -1,0 +1,22 @@
+.shipping-info-heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.shipping-info-heading > button{
+    width: -moz-fit-content;
+    width: fit-content;
+    margin-right: 2rem;
+}
+
+.shipping-info-heading > h2{
+    font-size: 3rem;
+}
+
+.shipping-info-form{
+    display: grid;
+    padding: 0;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}

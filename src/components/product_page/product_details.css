@@ -9,7 +9,7 @@
 
 .image-section{
     display: grid;
-    background-color: var(--secondary-color);
+    background-color: black;
     /* grid-template-areas: 'one' 'two'; */
     grid-template-rows: 1fr 0.4fr;
     gap: 5rem;
@@ -55,12 +55,12 @@
 
 .text-section > h3{
     font-size: 3rem;
-    margin: 6rem 0 0 0;
+    margin: 1.5rem 0 0 0;
 }
 
 .text-section > p{
     font-size: 2rem;
-    margin: 2rem 0;
+    margin: 0.5rem 0;
 }
 
 .cash-out-section{

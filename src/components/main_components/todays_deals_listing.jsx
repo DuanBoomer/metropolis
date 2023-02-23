@@ -5,8 +5,10 @@ import data from '../../data/product'
 import './todays_deals_listing.css'
 function TodaysDealsListing() {
     const cardsss = data.map(
-        function ({ img, about, price, rating, title }) {
+        function ({ id, img, about, price, rating, title }) {
             return <ProductCard
+                key={id}
+                id={id}
                 img={img}
                 about={about}
                 price={price}

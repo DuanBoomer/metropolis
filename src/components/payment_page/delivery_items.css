@@ -1,0 +1,9 @@
+.delivery-items-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+}
+
+.delivery-items > h2{
+    font-size: 3rem;
+}
