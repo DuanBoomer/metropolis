@@ -1,0 +1,31 @@
+.help-cards{
+    margin: 4.5rem 2rem 2rem 2.5rem;
+}
+.help-cards > section{
+    display: flex;
+    gap: 1.5vw;
+    justify-content: center;
+    padding: 0;
+    /* flex-wrap: wrap; */
+}
+
+.help-cards > section > *{
+    flex-grow: 0;
+    /* flex-basis: 1; */
+
+}
+
+.help-cards > h2{
+    font-size: 3.5rem;
+}
+
+@media (max-width: 1000px) {
+    .help-cards > h2{
+        font-size: 2.7rem;
+    }
+}
+@media (max-width: 800px) {
+    .help-cards > h2{
+        font-size: 2rem;
+    }
+}

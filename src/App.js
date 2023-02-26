@@ -1,23 +1,24 @@
 
-import Navbar from './components/main_components/navbar.js'
-import Header from './components/main_components/banner.js'
-
-import CategoryCardListing from './components/main_components/category_card_listing.js';
-import ProductCardListing from './components/main_components/product_card_listing.js';
-import BestSellersListing from './components/main_components/best_sellers_listing.js';
-import HelperServices from './components/main_components/helper_services';
-
+import { Route, Routes } from 'react-router-dom';
+import './App.css'
+import Home from './pages/home';
+import Product from './pages/product';
+import DarkThemeToggler from './components/cards/dark-theme/dark-theme-toggler';
+import Navbar from './components/main_components/navbar';
+import Footer from './components/main_components/footer';
+import Payment from './pages/payment';
 function App() {
   return (
     <div>
-      <Navbar/>
-      <Header/>
-      <CategoryCardListing/>
-      <ProductCardListing/>
-      <BestSellersListing/>
-      <HelperServices/>
+      <DarkThemeToggler />
+      <Navbar />
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='/product/:id' element={<Product />} />
+        <Route path='/payment/:id' element={<Payment />} />
+      </Routes>
+      <Footer/>
     </div>
   );
 }
-
 export default App;

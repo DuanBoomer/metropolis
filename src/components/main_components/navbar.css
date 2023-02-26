@@ -1,57 +1,123 @@
-.navbar{
+
+/* functionality */
+nav{
     display: flex;
-    overflow:auto;
-    padding: 5px 40px;
     align-items: center;
-    justify-content: space-between;
+    /* border: solid 3px red; */
 }
 
-.navbar-title{
-    color: rgb(41, 41, 41);
-    font-size: 45px;
-    padding: 5px;
+.navbar-buttons{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: auto;
+    gap: 1rem;
+    flex-grow: 1;
+    align-items: center;
+    /* border: solid 3px red; */
 }
 
-.navbar-title:hover{
-    -webkit-text-stroke: 1px black;
+.navbar-buttons > li{
+    flex-grow: 1;
+    flex-basis: 1;
+    /* border: solid 3px rebeccapurple; */
 }
 
-.navbar-options{
-    /* background-color: yellow; */
-    padding: 5px;
-    margin: 10px;
-    font-size: 26px;
+.navbar-buttons > li > input, button{
+    width: 100%;
 }
 
-.navbar-options:hover{
-    -webkit-text-stroke: 1px black;
+.link{
+    text-decoration: none;
+    color: inherit;
 }
 
-.navbar-search{
+.search{
+    flex-grow: 3;
     /* background-color: red; */
-    margin-right: 7px;
-    width: 30rem;
-    padding: 10px 7px;
-    border-radius: 25px;
-    border: 0px;
-    outline: none;
-    box-shadow: 8px 8px 0px 0px black;
-    text-indent: 20px;
-    font-size: 22px;
-}
-
-.navbar-search:placeholder-shown{
-    box-shadow: 8px 8px 0px 0px grey;
-}
-
-.navbar-search:hover{
-    box-shadow: 8px 8px 4px 0px;
 }
 
 
+/* styling */
+
+nav{
+    padding: 2rem;
+    color: var(--secondary-color);
+}
+
+.company-title{
+    font-size: 4rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    font-weight: bold;
+    /* font-size: 2rem; */
+}
+
+.navbar-buttons > li > button{
+    padding: 0;
+    margin: 0;
+    outline: transparent;
+    border: transparent;
+    background-color: transparent;
+    font-size: 2.6rem;
+    padding: 1rem 2rem;
+    border-radius: 2em;
+    color: inherit;
+    /* transition-duration: var(--shadow-transition-delay); */
+    /* font-weight: bold; */
+}
+
+.navbar-buttons > li > button:hover{
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+}
+
+.navbar-buttons > li > input {
+    outline: transparent;
+    border: transparent;
+    min-width: 10ch;
+    padding: 0.5rem 0;
+    margin: 0;
+    text-indent: 2rem;
+    border-radius: 3em;
+    border: 2.5px solid var(--secondary-accent-color);
+    box-shadow: 4px 4px var(--primary-accent-color);
+    font-size: 2.3rem;
+}
+
+@media(max-width: 1500px){
+    .navbar-buttons > li > button{
+        font-size: 2rem;
+    }
+
+    .navbar-buttons > li > input{
+        font-size: 1.7rem;
+    }
+}
 
 
+@media(max-width: 1000px){
+    nav{
+        flex-direction: column;
+    }
+}
 
+@media(max-width: 800px){
+    .navbar-buttons{
+        flex-direction: column;
+        gap: 0.55rem;
+    }
 
+    .company-title{
+        font-size: 3rem;
+    }
 
+    .navbar-buttons > li > button{
+        font-size: 1.5rem;
+    }
 
+    .navbar-buttons > li > input{
+        font-size: 1.4rem;
+    }
+}
