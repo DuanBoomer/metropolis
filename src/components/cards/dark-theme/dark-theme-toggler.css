@@ -14,11 +14,19 @@
     width: 100%;
     top: 0.5rem;
     position: relative;
+<<<<<<< HEAD
+=======
+    transition-duration: var(--shadow-transition-delay);
+>>>>>>> db2f94220e6b37e8ad9ba5548d14e58f563d1734
 }
 
 .left{
     left: -2rem;
+<<<<<<< HEAD
     rotate: 180deg;
+=======
+    transform: rotate(180deg);
+>>>>>>> db2f94220e6b37e8ad9ba5548d14e58f563d1734
 }
 .right{
     right: -2rem;

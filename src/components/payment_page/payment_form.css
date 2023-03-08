@@ -1,0 +1,81 @@
+.payment-form{
+    grid-row: span 2;
+    border-left: 3px solid var(--secondary-color);
+}
+
+.payment-form > h2{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.payment-form > h3{
+    font-size: 2.3rem;
+    margin: 0 0 3rem 0;
+}
+
+/* /////////////////////////// management control, mis */
+.radio-buttons{
+    padding: 0;
+}
+
+.radio-buttons > div{
+    margin: 1rem 0;
+}
+
+.radio-buttons> div > input{
+    accent-color: var(--secondary-color);
+}
+
+.radio-buttons > div > label{
+    font-size: 2rem;
+}
+
+/* //////////////////////////// */
+.card-details{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    align-items: center;
+}
+
+/* ///////////////////////////// */
+
+.final-payment{
+    width: 100%;
+    font-size: 2rem;
+    margin: 2rem 0;
+    /* border-spacing: 0.5rem; */
+    
+}
+
+.final-payment > tr > th, td{
+    /* border: 2px solid black; */
+    padding: 5px;
+}
+
+.final-payment > tr > th{
+    text-align: left;
+    width: 40%;
+}
+
+/* ///////////////////////////// */
+
+.payment-button{
+    width: max-content;
+    padding: 2rem 4rem;
+    border: 3px solid var(--secondary-color);
+    background-color: var(--primary-color);
+    color: inherit;
+    font-size: 2rem;
+}
+
+.payment-button:hover{
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    box-shadow: -8px 8px red;
+    transform: translate(8px, -8px);
+}
+
+/* ////////////////////////////// */
+
+
+
