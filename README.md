@@ -1,68 +1,60 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Metropolis
 
-## Available Scripts
+It is a mid - term project for my grad course. The idea is that you will be able to buy anything on it -technically you can't buy anything on it right now.
 
-In the project directory, you can run:
+Forks and Stars are always appreciated
 
-### `npm start`
+To setup the project on your local machine
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Download the project as a zip
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Run ` npm install ` in the root directory
 
-### `npm test`
+Than run ` npm start ` to start the local server.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Goto [localhost:3000](http://localhost:3000/) to view the site.
 
-### `npm run build`
+### Dev Updates
+- Pages till the checkout of a product have been made. Now you can select a product, view its details, pay for it and continue shopping.
+- Other pages such as about and categories **TODO**
+- User authentication **TODO**
+- Payment authenication **TODO**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Site Firstlook
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### Home page
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![home-top-light](https://user-images.githubusercontent.com/75297171/223654816-4a6339b0-0baf-4e1d-a385-d2bb59c93fe9.png)
 
-### `npm run eject`
+![home-mid-light](https://user-images.githubusercontent.com/75297171/223655009-09ee573a-2449-4976-8679-571eb4ba4a02.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![home-bottom-light](https://user-images.githubusercontent.com/75297171/223655033-516ace5d-8757-46d4-9f77-ab627e77536a.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![home-top-dark](https://user-images.githubusercontent.com/75297171/223654876-8742aa7b-f3da-4cf7-a90d-b39125261126.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![home-mid-dark](https://user-images.githubusercontent.com/75297171/223655094-b6491e1c-1a0c-4728-abf4-47fd4568ef18.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![home-bottom-dark](https://user-images.githubusercontent.com/75297171/223655143-28ab594c-dae5-4ea1-81e2-25c740551c4c.png)
 
-## Learn More
+### Product page
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![product-top-light](https://user-images.githubusercontent.com/75297171/223655260-bc93ade2-a3ee-4001-9390-2201fe1b8fe0.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![product-bottom-light](https://user-images.githubusercontent.com/75297171/223655285-5b465386-6631-4998-a505-7a539dfc3a69.png)
 
-### Code Splitting
+![product-top-dark](https://user-images.githubusercontent.com/75297171/223655317-f508643b-8b7f-49b8-8155-bd595dcf6a2e.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![product-bottom-dark](https://user-images.githubusercontent.com/75297171/223655329-4353bd03-8cf6-4de6-b118-6b4ac44f59f5.png)
 
-### Analyzing the Bundle Size
+### Payment page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![payment-light](https://user-images.githubusercontent.com/75297171/223655378-1a716041-2646-4e31-a1a2-b0ff405505c1.png)
 
-### Making a Progressive Web App
+![payment-success-light](https://user-images.githubusercontent.com/75297171/223655437-2f6a4069-78d8-4f3f-b9ec-b3a56eef7fe1.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![payment-dark](https://user-images.githubusercontent.com/75297171/223655476-03cea87d-1a94-4597-8f21-f3fda174d7b7.png)
 
-### Advanced Configuration
+![payment-success-dark](https://user-images.githubusercontent.com/75297171/223655508-619825fd-089f-40e4-bfa0-b0dadb48a870.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
