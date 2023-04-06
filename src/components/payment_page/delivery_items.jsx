@@ -1,15 +1,18 @@
-import { useParams } from 'react-router-dom'
+import { useLocation, useParams } from 'react-router-dom'
 import './delivery_items.css'
-import productData from '../../data/product'
+import productData from '../../database/product_card_data'
 import DeliveryItemsInfo from './delivery_items_info'
 function DeliveryItems() {
-    const { id } = useParams()
+    // const { id, count } = useParams()
+    const location = useLocation()
+
+    console.log(location.state);
 
     //fetch data with id
-    const { img, price, title } =
-        productData.find(function (product) {
-            return product.id == id
-        })
+    const { name, image, price, quantity } = location.state
+        // productData.find(function (product) {
+        //     return product.id == id
+        // })
 
     ////////////////
     return (
@@ -18,10 +21,12 @@ function DeliveryItems() {
 
             <article className='delivery-items-grid'>
                 <DeliveryItemsInfo
-                    id = {id}
-                    title={title}
+                    // key={id}
+                    // id = {id}
+                    title={name}
                     price={price}
-                    img={img}
+                    img={image}
+                    quantity={quantity}
                 />
             </article>
         </section>

@@ -1,31 +1,45 @@
 import React from 'react';
 import ProductCard from '../cards/product_cards'
 // import Listing from '../minor_components/listing'
-import data from '../../data/product'
 import './best_sellers_listing.css'
-import productdata from '../../data/product'
-import traveldata from '../../data/travel'
+// import productData from '../../database/product_card_data'
+import products from '../../database/product_card_data'
+// import productdata from '../../data/product'
+// import traveldata from '../../data/travel'
 
 function BestSellersListing() {
-    const [data, setData] = React.useState(productdata)
-    const cardsss = data.map(
-        function ({ img, about, price, rating, title }) {
+    const clothingJSON = require('../../data/data_new.json')
+    const electronicsJSON = require('../../data/electronics.json')
+    const [data, setData] = React.useState(electronicsJSON)
+    
+    const cardsss = data.slice(0,10).map(
+        function ({ name, price, short_description, rating, image }) {
             return <ProductCard
-                img={img}
-                about={about}
+                img={image}
+                about={short_description}
                 price={price}
                 rating={rating}
-                title={title}
+                title={name}
+                description={short_description}
+                quantity={5}
             />
         }
     )
 
+    function electronicsData(){
+        setData(electronicsJSON)
+    }
+
+    function clothingData(){
+        setData(clothingJSON)
+    }
+
     function productData(){
-        setData(productdata)
+        console.log('p');
     }
 
     function travelData(){
-        setData(traveldata)
+        console.log('o');
     }
 
     return (
@@ -33,8 +47,8 @@ function BestSellersListing() {
             <h2>Best Sellers</h2>
             <section>
                 <ul className='best-sellers-categories'>
-                    <li><button onClick={productData}>Travel</button></li>
-                    <li><button onClick={travelData}>Product</button></li>
+                    <li><button id='electronics' onClick={electronicsData}>Electronics</button></li>
+                    <li><button id='cloths' onClick={clothingData}>Cloths</button></li>
                     <li><button onClick={productData}>Gadget</button></li>
                     <li><button onClick={travelData}>Fashion</button></li>
                     <li><button onClick={productData}>Toys</button></li>

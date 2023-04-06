@@ -8,7 +8,7 @@
     font-size: 2rem;
     width: 100%;
     border: 4px var(--primary-accent-color) solid;
-    padding: 0 2rem;
+    padding:0 2rem 2rem 2rem;
     border-spacing: 0;
     /* border-collapse:collapse; */
 }

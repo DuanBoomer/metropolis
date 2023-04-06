@@ -1,7 +1,7 @@
 function SimilarItems(){
     return (
         <div>
-            <h2>Similar Items</h2>
+            {/* <h2>Similar Items</h2> */}
         </div>
     )
 }

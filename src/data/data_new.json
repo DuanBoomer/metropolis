@@ -1,0 +1,548 @@
+[
+    {
+        "name": "Water-repellent coach jacket",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F64%2F6e%2F646ee916770cf0d590b05695ab9132590106a4b0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F94%2Fae%2F94ae2116541e4556350dded4095633e39505f5c9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F80%2Fe7%2F80e75b228e7c712d5edc53df20a405b7d137016e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F26%2Feb%2F26ebcc138c0002a31472138806476e8a0ecbb84b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ffc%2F4b%2Ffc4bbc887ef924ee2d4923024eb98b32cbe8e894.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price": 1999,
+        "short_description": "Boxy-style top in sweatshirt fabric with a print motif",
+        "long_description": "Boxy-style top in sweatshirt fabric with a print motif. Relaxed fit with dropped shoulders and ribbing around the neckline, cuffs and hem. Soft brushed inside.",
+        "rating": 2,
+        "quantity_available": 9,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": "Coach Jacket",
+            "price": 1999.00,
+            "release_date": "7 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": "jacket"
+        }
+    },
+    {
+        "name": "Regular Fit Ripstop cargo trousers",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd3%2F9c%2Fd39c35392d3cf38034c2163e4378356cb2368273.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fac%2Fc4%2Facc44062d4ab251473c3c9d1d5e17b6ee4936461.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F69%2F5d%2F695d13bf839bc782d5323cda234894e9447ae8e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa4%2Fab%2Fa4ab04f9db5f44ee140316feb28cea831a87ccf8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_cargo%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F3b%2F3a%2F3b3a8ab5b571bcdea7b3ab7b26e898d917186b28.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D"
+            ]
+        },
+        "price": 1999,
+        "short_description": "Regular-fit cargo trousers in a hard-wearing ripstop weave.",
+        "long_description": "Regular-fit cargo trousers in a hard-wearing ripstop weave. Covered elastication and a drawstring at the waist, and a zip fly and button. Side, back and leg pockets with a flap and concealed press-studs, and covered elastication at the hems.",
+        "rating": 4,
+        "quantity_available": 9,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": "Cargo Trousers",
+            "price": 2999.00,
+            "release_date": "7 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": "jacket"
+        }
+    },
+    {
+        "name": "Cotton twill cap",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa1%2F54%2Fa154c62e67aea8a08ca8a158802e6d5ed5c913ae.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F08%2F9f%2F089fccecaffe3403e1e206f88fa42ccb8dc98faa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F29%2F02%2F2902086a3a0861b25d5732616d0a3e0c9497441e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/mobilefullscreen]",
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc6%2F13%2Fc6136f1334ccb019ada7b17784abb0991152f46a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/mobilefullscreen]",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa6%2F63%2Fa663e4ba7684abc232510a2eaa90d20637bd2517.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_accessories_hatscaps_caps%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D"
+            ]
+        },
+        "price": 699.00,
+        "short_description": "Cap in cotton twill with an adjustable tab and metal fastener at the back.",
+        "long_description": "Cap in cotton twill with an adjustable tab and metal fastener at the back, and a cotton sweatband.",
+        "rating": 4,
+        "quantity_available": 9,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": "Twill Cap",
+            "price": 2999.00,
+            "release_date": "7 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": "cap"
+        }
+    },
+    {
+        "name": "Mini shoulder bag",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5d%2Fb1%2F5db19ba5f7c8b5ac71b8e4bf8636686ec71ace3d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa2%2Fae%2Fa2ae83aec8ed6d7837d7ae48f7134eb1454956d0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa2%2Fae%2Fa2ae83aec8ed6d7837d7ae48f7134eb1454956d0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F82%2F9b%2F829bfc6e1fd65776034d3dbf35fe5b3fb0a9e1a3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2a%2F3b%2F2a3ba43e293ef2bd8649b3b2841e1878a17f969e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D"
+            ]
+        },
+        "price": 699.00,
+        "short_description": "Cap in cotton twill with an adjustable tab and metal fastener at the back",
+        "long_description": "Cap in cotton twill with an adjustable tab and metal fastener at the back, and a cotton sweatband.       ",
+        "rating": 4,
+        "quantity_available": 9,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": "Shoulder Bag",
+            "price": 1499.00,
+            "release_date": "7 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": "Bag"
+        }
+    },
+    {
+        "name": "Nylon track jacket",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F34%2Faa%2F34aa63b54ee0a0d418ab7a7f0668032beb165632.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F37%2F64%2F3764dc4709b9c8c036749fd3ed81f3c4e93fad10.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F82%2F65%2F82653625bf2312bd25a9f7052728d8ba0ddc19b1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fac%2F78%2Fac78bcbbc2f2e338f7052cf8c679a75dafee4765.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa4%2Fac%2Fa4ac0518c848338763e3f7a6b08ce461ef962a49.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_jackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D"
+            ]
+        },
+        "price": 3999.00,
+        "short_description": "Track jacket in windproof, water-repellent nylon with a high collar",
+        "long_description": "Track jacket in windproof, water-repellent nylon with a high collar, zip down the front, long sleeves and covered elastication at the cuffs and hem. Pockets in the side seams with a press-stud and an inner pocket with a press-stud. Storm flap feature at the front and back. Lined",
+        "rating": 4,
+        "quantity_available": 9,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": "Track Jacket",
+            "price": 1499.00,
+            "release_date": "7 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": "Jacket"
+        }
+    },
+    {
+        "name": "Loose Fit Patterned twill trousers",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F18%2F48%2F18484d98d51cc9be377d0b90193cff1d7b0fb983.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fcf%2F46%2Fcf4659dfe5782b64a37fb9ce7cb0e7d84728d2fa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F26%2F05%2F26053cd25748a4952f5fa590417874f41f6eb6e7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F26%2F05%2F26053cd25748a4952f5fa590417874f41f6eb6e7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F88%2Fce%2F88ce8b81cfae53ed0a9b7fc421c9f520815aa86d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D"
+            ]
+        },
+        "price": 2699.00,
+        "short_description": "Track jacket in windproof, water-repellent nylon with a high collar.",
+        "long_description": "Track jacket in windproof, water-repellent nylon with a high collar, zip down the front, long sleeves and covered elastication at the cuffs and hem. Pockets in the side seams with a press-stud and an inner pocket with a press-stud. Storm flap feature at the front and back. Lined",
+        "rating": 4,
+        "quantity_available": 9,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": "Twill Trousers",
+            "price": 1499.00,
+            "release_date": "7 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": " Trousers"
+        }
+    },
+    {
+        "name": "Regular Fit T-shirt",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc5%2F24%2Fc524354652c042a893fa588d4d74bfa27bd4cace.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc2%2Fad%2Fc2adf0aa27b7f5ad4e9f0ca386c611b9c5632981.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F3d%2F04%2F3d042240f6b0cec6d7a5dd36eeb72a7db99f9aa0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F34%2F06%2F34062797456a6d2877388c5ff8d68f96c149c770.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe8%2F41%2Fe84174a96fcb885ae97a8d40dcae75576e5f09ae.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price": 2699.00,
+        "short_description": "T-shirt in soft cotton jersey with a round neckline.",
+        "long_description": "T-shirt in soft cotton jersey with a round neckline and a print motif on the front.",
+        "rating": 4,
+        "quantity_available": 9,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": "T-shirt",
+            "price": 799.00,
+            "release_date": "7 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": " T-shirt"
+        }
+    },
+    {
+        "name": "Relaxed Fit Terry track jacket",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0e%2Fab%2F0eab1eccf13c133a4f7630096753a289050991d8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F6e%2Fa8%2F6ea848d98de3f08ee7d3281a99634c7bb8efd8d5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F3d%2F04%2F3d042240f6b0cec6d7a5dd36eeb72a7db99f9aa0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F70%2F5c%2F705c03f78667380d3c82f130848154315e057b28.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fec%2F7d%2Fec7d621515b5456d96e3f3cbf1023186ef1ca3db.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D"
+            ]
+        },
+        "price": 2699.00,
+        "short_description": "Relaxed-fit track jacket in soft terry with a stand-up collar",
+        "long_description": "Relaxed-fit track jacket in soft terry with a stand-up collar, zip down the front, long raglan sleeves, welt side pockets and covered elastication at the cuffs and hem. Unlined.",
+        "rating": 3,
+        "quantity_available": 9,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": "Terry track jacket",
+            "price": 799.00,
+            "release_date": "7 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": " Terry track jacket"
+        }
+    },
+    {
+        "name": "Wide Ultra High Jeans",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb2%2F39%2Fb239dfa72a7f2c0d7ef6c2e9e0e65387da49c1c8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe6%2Fcd%2Fe6cdd1d02b4bb27f4a56c8b6a17388a5ee80d7d2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa6%2Feb%2Fa6eb87aeafcaba7769a23f1d066e12f040b5f6ce.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F1a%2F04%2F1a0405c96054783831df1b882d1f4f29bd226cf8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F4d%2F13%2F4d133f2aa7b49e2fd64b750213d39d883577bb88.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price": 2699.00,
+        "short_description": " 5-pocket jeans in sturdy cotton denim with an extra-high waist.",
+        "long_description": "5-pocket jeans in sturdy cotton denim with an extra-high waist, zip fly and button and wide, straight legs FitRegular fit",
+        "rating": 5,
+        "quantity_available": 4,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": "High Jeans",
+            "price": 1999.00,
+            "release_date": "13 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": " High Jeans"
+        }
+    },
+    {
+        "name": "Knot-detail cropped shirt",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc7%2F7b%2Fc77b95ed4b092596687069f0b7090c75f9fc32e4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd8%2Fe3%2Fd8e3d6da6dd5627cde9c78fc84493792ac21eeb1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff8%2F7b%2Ff87ba46d4b0bc8d42ce477530533e1f732a048c8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa6%2Fd9%2Fa6d92128106c38792545c523785bcf1af23f17fa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F29%2Fb5%2F29b5eb704f7ff8813ed389f0edf315be829bd617.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price": 1999.00,
+        "short_description": "Cropped shirt in woven fabric with a collar, V-shaped opening.",
+        "long_description": "Cropped shirt in woven fabric with a collar, V-shaped opening and a decorative knot detail at the front. Boxy style with dropped shoulders, short sleeves that finish just above the elbows and flap chest pockets.",
+        "rating": 5,
+        "quantity_available": 14,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": " Cropped shirt",
+            "price": 1999.00,
+            "release_date": "13 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": " Cropped shirt"
+        }
+    },
+    {
+        "name": "Tie-belt bouclé shacket",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F10%2F04%2F1004518f6515bf5fbbabab588cfd30445a052b6f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F77%2F55%2F775517b5c48dffb5ca2c42f13f38d2ed98344acb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fde%2Ffe%2Fdefe4818a957a786402ba7e874ebf53e13e2634b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fdf%2F84%2Fdf8455eee53c4cf6dfc9efca00c75e3a2fcf6ec4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F59%2Fe2%2F59e22515c531610c31ad8b754c324324c0ec02b7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price": 5499.00,
+        "short_description": "Shacket in a bouclé weave containing some wool with raw-edge trims.",
+        "long_description": "Shacket in a bouclé weave containing some wool with raw-edge trims. Relaxed fit with a collar, buttons down the front and a detachable tie belt at the waist. Gently dropped shoulders, long sleeves, flap front pockets and a slit at the sides. Lined.",
+        "rating": 5,
+        "quantity_available": 14,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": " Cropped shirt",
+            "price": 5499.00,
+            "release_date": "13 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": " Cropped shirt"
+        }
+    },
+    {
+        "name": "Gathered cropped top",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa5%2F26%2Fa526616575d1e86f9fe6f0cc9f239f0a17e44346.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2d%2F52%2F2d52f81969f1b7b2fea2c693ee704b26e8c6f1dd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F21%2F09%2F210922533544a02a173d23b611722bb7d1cc99fb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_tops_croppedtops%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb0%2Fb3%2Fb0b385ccd65df5e4ebb5d7522bb6cb0e2600f9be.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_tops_croppedtops%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F21%2F09%2F210922533544a02a173d23b611722bb7d1cc99fb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_tops_croppedtops%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price": 1999.00,
+        "short_description": "Cropped top in jersey with a deep, V-shaped neckline.",
+        "long_description": "Cropped top in jersey with a deep, V-shaped neckline and short butterfly sleeves. Gathers at the shoulders, waist and under the bust for a draped effect. Partly lined.",
+        "rating": 5,
+        "quantity_available": 11,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": " Cropped top",
+            "price": 1999.00,
+            "release_date": "13 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": " Cropped top"
+        }
+    },
+    {
+        "name": "Puff-sleeved ribbed top",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc1%2F29%2Fc129e7b385026e1d7fda5c335b4185842da57ff0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F26%2F2e%2F262ed2f37751187bbec23ef69d56844031a0ee0d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe0%2F8e%2Fe08e0177b3b558f3901ebfe9a2e845ae1307aad2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F3b%2F24%2F3b2404871f4be3edaf6fac6e7b0810bfd58ae861.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F6c%2Fee%2F6ceebf880d5709c849ed69634c0e5bb46743446b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price":  799.00,
+        "short_description": "Short top in ribbed jersey, Square neckline and short puff sleeves.",
+        "long_description": "Short top in ribbed jersey. Square neckline, short puff sleeves with covered elastication over the shoulders and at the cuffs, and a straight-cut hem.",
+        "rating": 5,
+        "quantity_available": 11,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": " Ribbed top",
+            "price": 799.00,
+            "release_date": "13 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": " Ribbed top"
+        }
+    },
+    {
+        "name": "Tie-detail dress",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F60%2F67%2F606763b0e05aacf6daae7e17d801e497123460b2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe7%2F01%2Fe701e340b174980cd366c7c5d2955911df9f1fc1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F19%2F96%2F1996ced6685b79dbf7fcbcd8186896058c8f9100.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F55%2F34%2F5534f4033dbd67d182d21904adf33b33ceb266b6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F88%2Fcf%2F88cfad28e80e0777e7700233585a4798109d524e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price":  799.00,
+        "short_description": "Calf-length, fitted dress in woven fabric.",
+        "long_description": "Calf-length, fitted dress in woven fabric. Adjustable spaghetti shoulder straps and a sweetheart neckline with a concealed drawstring and narrow ties at the top. Gathered seam under the bust, a seam at the waist and a smocked section at the back. Concealed zip in one side and a straight-cut hem. Unlined.",
+        "rating": 5,
+        "quantity_available": 11,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": " Tie-detail dress",
+            "price": 799.00,
+            "release_date": "22 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": " Tie-detail dress"
+        }
+    },
+    {
+        "name": "Satin halterneck dress",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd6%2Fae%2Fd6ae39cc7dd29f2975a517ad6f089d57dc781d2f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F67%2F86%2F678635d08e71d45b376c1e0e4b005f6375a35e9e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fdb%2Fdb%2Fdbdb8622d9601a0b9ee741b0a70e637985bb9cc3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa2%2F91%2Fa291546b126d3627d0e0987c8c8e2c730a90a288.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa2%2F60%2Fa26062ea2bd433effeacbf0b53feae5acd4bb633.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price":   2299.00,
+        "short_description": "Ankle-length, sleeveless halterneck dress in softly draping satin. ",
+        "long_description": "Ankle-length, sleeveless halterneck dress in softly draping satin. Narrow cut at the top and a crossover front providing a draped effect over the bust with wide ties at the back of the neck. Concealed zip and hook-and-eye fastener at the back, a seam at the waist and a gently flared skirt. Unlined.",
+        "rating": 4,
+        "quantity_available": 11,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": " Satin halterneck dress",
+            "price": 2299.00,
+            "release_date": "22 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": " Satin halterneck dress"
+        }
+    },
+    {
+        "name": "Canvas trainers",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe0%2Ff0%2Fe0f01079460c67356d8b3b6dd508e4a5ab567529.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9a%2F99%2F9a991e9889404133bfcf8a9dacb24dcd0199347e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F28%2F66%2F2866c7a230e6657c4784ba70287f98392a5010c3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shoes_sneakers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9e%2F16%2F9e16f3af631719d7eb9651d42617a6da9bce4f11.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shoes_sneakers%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F1e%2Ff0%2F1ef042f3c47c306c24a09e3b75e4b0082ffd1b30.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shoes_sneakers%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price":   1999.00,
+        "short_description": "Trainers in sturdy cotton canvas with a tongue and lacing at the front. ",
+        "long_description": "Trainers in sturdy cotton canvas with a tongue and lacing at the front. Cotton canvas linings and insoles and rubber soles that are patterned underneath. Height of soles 3.1 cm.",
+        "rating": 4,
+        "quantity_available": 11,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": " Canvas trainers",
+            "price": 1999.00,
+            "release_date": "12 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": "Canvas trainers"
+        }
+    },
+    {
+        "name": "Loose Bootcut Jeans",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb7%2Fe7%2Fb7e797c59933b6460bf799b32d42bc6c8a40d1fc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F52%2F77%2F52778e751ce730c97bc122c87703168e0a13e0b6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F50%2Fa4%2F50a41f1986301401289ddaffeab51f2b572993b7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F43%2Fc9%2F43c9862345feb3993374d44dbf2b750669b55f5f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F23%2Fa7%2F23a782ba9201a909a9bb66590be1166d4888511d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price":   2699.00,
+        "short_description": "Trainers in sturdy cotton canvas with a tongue and lacing at the front. ",
+        "long_description": "Trainers in sturdy cotton canvas with a tongue and lacing at the front. Cotton canvas linings and insoles and rubber soles that are patterned underneath. Height of soles 3.1 cm.",
+        "rating": 4,
+        "quantity_available": 11,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": " Loose Bootcut Jeans",
+            "price": 2699.00,
+            "release_date": "12 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": "Loose Bootcut Jeans"
+        }
+    },
+    {
+        "name": "Regular Fit Denim shirt",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8a%2Fbc%2F8abca547d82416387288f8334bfeecf10309b68d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F56%2F16%2F561603e0fa6afd29b15a6c61b8d8ec60afcb60ad.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8b%2F4f%2F8b4f49c5b060337ae5910d6864d0820a3170d346.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F06%2F87%2F068752e9e199b7701c5272038fdef340890918e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F19%2Fa8%2F19a8cb11128fb7195a621f703d76531affcd0739.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price":   2699.00,
+        "short_description": "Regular-fit shirt in rigid denim with a collar.",
+        "long_description": "Regular-fit shirt in rigid denim with a collar, buttons down the front and a yoke at the back. Flap chest pockets with a button and long sleeves with buttoned cuffs. Rounded hem.",
+        "rating": 5,
+        "quantity_available": 9,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": " Denim shirt",
+            "price": 2699.00,
+            "release_date": "12 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": "Denim shirt"
+        }
+    },
+    {
+        "name": "Regular Bootcut Jeans",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6f%2F80%2F6f8080596a21d20e41c0a9a47fd02152a1e62564.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fde%2Ff0%2Fdef00122fa00a042afa8ab17a554fe693dcead51.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F49%2Fb0%2F49b093e0d6005010c89e7fbfed020d87d2d17ee0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F70%2F10%2F7010c2be967631f32cbecd01592049b5fec4091a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F7a%2F21%2F7a211c84fba68dcea2f96c2788d1fd621286fe9a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price":   2699.00,
+        "short_description": "5-pocket jeans in rigid denim. ",
+        "long_description": "5-pocket jeans in rigid denim. Flared leg and a regular fit from the waist to the hem with a comfortable, looser feel around the whole leg. High waist and a button fly.",
+        "rating": 5,
+        "quantity_available": 9,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": "  Bootcut Jeans",
+            "price": 2699.00,
+            "release_date": "12 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": " Bootcut Jeans"
+        }
+    },
+    {
+        "name": "Cotton twill dungarees",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F09%2Fd8%2F09d83813a3001ee88c8333ba92f9a52be7551cad.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F4f%2Fc9%2F4fc929e9729356675d7d2b55d20c51a378e03fa5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fef%2F16%2Fef166fd2c91a8931894ca2b1c79cdb3373006e35.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F4f%2Fc9%2F4fc929e9729356675d7d2b55d20c51a378e03fa5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F09%2Fd8%2F09d83813a3001ee88c8333ba92f9a52be7551cad.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+            ]
+        },
+        "price":  1499.00,
+        "short_description": "Block-coloured dungarees in cotton twill with a chest pocket.  ",
+        "long_description": "Block-coloured dungarees in cotton twill with a chest pocket. Adjustable straps with wood-look buttons at the front, wood-look buttons at the sides and a fake fly. Concealed press-studs at the crotch and down the legs (except in sizes 1–4Y).",
+        "rating": 4,
+        "quantity_available": 14,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": " Dungarees",
+            "price":  1499.00,
+            "release_date": "16 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": "Dungarees"
+        }
+    },
+    {
+        "name": "Slip-on cotton trainers",
+        "image": {
+            "main": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff0%2Fa3%2Ff0a362c792cc986be8f4d9dea9ca5914d6c16305.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "secondary": [
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fec%2Fd5%2Fecd508f9660ec1d9b7298cbb106f3b4458405025.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8e%2F05%2F8e051426a0a528214cddf653c03ea694ea25009c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F99%2Fee%2F99eeb0b7a2fb556337475b2bd670c960beb9db1b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+                "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd4%2F9a%2Fd49ac8ee1e61ab1939d801587bcab0b757cf7c8a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+            ]
+        },
+        "price":  1499.00,
+        "short_description": "Blank Staples is a timeless collection of high-quality streetwear.",
+        "long_description": "Blank Staples is a timeless collection of high-quality, minimalistic streetwear. These slip-on trainers are in canvas made from cotton. They have a soft, padded top edge and elastic gores in the sides to make them comfy to take on and off. Piqué lining, canvas insoles and rubber soles that are patterned underneath. Height of soles 3.3 cm. Style with other pieces from the collection for a pared back, on-trend look.",
+        "rating": 4,
+        "quantity_available": 14,
+        "specifications": {
+            "brand": "Henned and Mauritz",
+            "model": "Trainers",
+            "price":  1499.00,
+            "release_date": "16 feb 2023",
+            "model_number": "efgh/abcd/43",
+            "category": "clothing",
+            "type": "Trainers"
+        }
+    }
+]

@@ -9,22 +9,22 @@ function HelperServices() {
         <HelpCard
             title="Frequently Asked Questions"
             about="Updates on sale Shopping in our Stores"
-            image="grape-sneaker.jpg"
+            image="faq.jpg"
         />,
         <HelpCard
             title="Online Payment Process"
             about="Updates on sale Shopping in our Stores"
-            image="grape-sneaker.jpg"
+            image="online-payment.jpg"
         />,
         <HelpCard
             title="Home Delivery Options"
             about="Updates on sale Shopping in our Stores"
-            image="grape-sneaker.jpg"
+            image="delivery.jpg"
         />,
         <HelpCard
             title="Returns and Refund Options"
             about="Updates on sale Shopping in our Stores"
-            image="grape-sneaker.jpg"
+            image="refund.jpg"
         />,
 
     ]

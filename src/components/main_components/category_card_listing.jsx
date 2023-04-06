@@ -7,8 +7,8 @@ import './category_card_listing.css'
 
 function CategoryCardListing() {
     const cardsss = data.map(
-        function ({ title, img, number }) {
-            return <CategoryCard title={title} img={img} number={number} />
+        function ({ title, img, number, tag_id }) {
+            return <CategoryCard title={title} img={img} number={number} tag_id={tag_id}/>
         }
     )
     return (

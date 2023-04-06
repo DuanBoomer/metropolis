@@ -1,29 +1,14 @@
 import React from 'react';
 import './product_details.css'
-import productData from '../../data/product'
-import { useNavigate, useParams } from 'react-router-dom';
+// import productData from '../../data/product'
+import { useLocation, useNavigate, useParams, Link } from 'react-router-dom';
+import data from '../../database/product_details_data'
 
 function ProductDetails() {
-    const navigate = useNavigate();
-    const {id} = useParams();
+    // const navigate = useNavigate();
+    const location = useLocation();
 
-    // fetch the data from id
-    const {img, about, price, rating, title} = 
-    productData.find(function(product){
-        return product.id == id
-    })
-
-    // useEffect(function(){
-    //     for (let i = 0; i < productData.length; i++) {
-    //         if (productData.id == id) {
-                
-    //         }
-    //         const object = productData[i];
-            
-    //     }
-    // }, [])
-    
-    ///////////////////
+    const { name, price, long_description, rating, images, quantity } = location.state
 
     var ratingStars = '';
     for (let i = 0; i < rating; i++) {
@@ -31,44 +16,45 @@ function ProductDetails() {
     }
 
     const [numberOfProduct, setNumberOfProducts] = React.useState(1)
-    const productImageData = [
-        img,
-        '//lp2.hm.com/hmgoepprod?set=source[/a7/3b/a73bfad474732c09934857f89bc2f5a7b97f9b43.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]',
-        'black-air-sneaker.jpg',
-        'grape-sneaker.jpg',
-        'black-air-sneaker.jpg',
-    ]
 
-    const [heroImage, setHeroImage] = React.useState(productImageData[0])
+    const productImageData = [images.main].concat(images.secondary)
+    const [heroImage, setHeroImage] = React.useState(typeof (images) == 'object' ? images.main : images)
 
-    function increaseNumberOfProducts(){
-        setNumberOfProducts(function(prev){
-            return prev+1
+    function increaseNumberOfProducts() {
+        setNumberOfProducts(function (prev) {
+            return prev + 1
         })
     }
 
-    function decreaseNumberOfProducts(){
-        setNumberOfProducts(function(prev){
-            return prev > 1 ? prev-1 : prev
+    function decreaseNumberOfProducts() {
+        setNumberOfProducts(function (prev) {
+            return prev > 1 ? prev - 1 : prev
         })
     }
 
-    function updateHeroImage(event){
+    function updateHeroImage(event) {
         setHeroImage(event.target.getAttribute('src'))
     }
 
-    function buyNowHandleClick(){
+    function buyNowHandleClick() {
         window.scrollTo(0, 0)
-        navigate(`/payment/${id}`)
+        // navigate(`/payment/${0}/${numberOfProduct}`)
     }
 
-    const productImages = productImageData.map(function(image){
+    const productImages = productImageData.map(function (image) {
         return (
             <li>
-                <img src={image} onClick={updateHeroImage}/>
+                <img src={image} onClick={updateHeroImage} />
             </li>
         )
     })
+
+    var data = {
+        name: name,
+        image: typeof (images) == 'object' ? images.main : images,
+        price: price,
+        quantity: numberOfProduct,
+    }
 
     return (
         <section className="product-details">
@@ -80,11 +66,10 @@ function ProductDetails() {
             </section>
 
             <section className="text-section">
-                <h2>{title} {id}</h2>
-                <p>{about}</p>
+                <h2>{name}</h2>
+                <p>{long_description}</p>
                 <p>{ratingStars}</p>
                 <h3>&#8377; {price}</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, quaerat.</p>
                 <section className="cash-out-section">
                     <article className='cash-out-quantity-section'>
 
@@ -95,15 +80,18 @@ function ProductDetails() {
                         </article>
 
                         <article>
-                            <p>Only 12 items left!</p>
+                            <p>Only {quantity} items left!</p>
                             <p>Don't miss it</p>
                         </article>
 
                     </article>
 
                     <article className='cash-out-buttons-section'>
-
-                        <button onClick={buyNowHandleClick}>Buy Now</button>
+                        <button onClick={buyNowHandleClick} className='buy-now'>
+                            <Link to='/payment/0/1' state={data} style={{textDecoration: 'none', color: 'inherit'}}>
+                                Buy Now
+                            </Link>
+                        </button>
                         <button>Add to cart</button>
 
                     </article>

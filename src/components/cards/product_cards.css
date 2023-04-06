@@ -4,6 +4,7 @@
     border-width: clamp(2px, 0.4vw, 5px);
     padding: 1vw;
     width: clamp(10rem, 20vw, 25rem);
+    height: 90%;
     border-radius: var(--border-radius);
     background-color: var(--primary-color);
     position: relative;
@@ -15,11 +16,7 @@
     border-top-right-radius: var(--border-radius);
     border-top-left-radius: var(--border-radius);
     width: 100%;
-<<<<<<< HEAD
     height: 30rem;
-=======
-    height: 27rem;
->>>>>>> db2f94220e6b37e8ad9ba5548d14e58f563d1734
     object-fit: cover;
 }
 
@@ -57,11 +54,7 @@
     background-color: var(--primary-color);
     border: 3px solid var(--secondary-color);
     font-weight: bold;
-<<<<<<< HEAD
-    transition-duration: var(--shadow-transition-delay);
-=======
     /* transition-duration: var(--shadow-transition-delay); */
->>>>>>> db2f94220e6b37e8ad9ba5548d14e58f563d1734
     /* margin: auto; */
 
     /* align-self:baseline; */
@@ -102,13 +95,10 @@
     .product-card > button{
         font-size: 1.2rem;
     }
-<<<<<<< HEAD
-=======
 
     .product-card > img{
         height: 22rem;
     }
->>>>>>> db2f94220e6b37e8ad9ba5548d14e58f563d1734
 }
 
 @media (max-width: 800px) {
@@ -123,11 +113,8 @@
     .product-card > button{
         font-size: 1rem;
     }
-<<<<<<< HEAD
-=======
 
     .product-card > img{
         height: 16rem;
     }
->>>>>>> db2f94220e6b37e8ad9ba5548d14e58f563d1734
 }

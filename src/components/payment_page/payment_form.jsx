@@ -1,6 +1,17 @@
 import './payment_form.css'
-
+import { useLocation, useParams } from 'react-router-dom';
+import productData from '../../database/product_card_data'
 function PaymentForm({openModal}) {
+
+    const location = useLocation()
+    const { price, quantity } = location.state
+
+    const payment_price = price * quantity
+    const tax = Math.round(payment_price * 0.105)
+    const discount = Math.round(payment_price * 0.025)
+    const shipping = Math.round(payment_price * 0.02)
+    const total = payment_price + tax - discount + shipping
+
     return (
         <section className='payment-form'>
             <h2>Order Summary</h2>
@@ -42,32 +53,32 @@ function PaymentForm({openModal}) {
             <table className='final-payment'>
                 <tr>
                     <th>Sub Total</th>
-                    <td>$549.00</td>
+                    <td>&#8377;{payment_price}</td>
                 </tr>
 
                 <tr>
                     <th>Tax</th>
-                    <td>$54.90</td>
+                    <td>&#8377;{tax}</td>
                 </tr>
 
                 <tr>
                     <th>Coupon Discount</th>
-                    <td>-$54.90</td>
+                    <td>&#8377;{discount}</td>
                 </tr>
 
                 <tr>
                     <th>Shipping Cost</th>
-                    <td>-$5.90</td>
+                    <td>&#8377;{shipping}</td>
                 </tr>
 
                 <hr />
                 <tr>
                     <th>Total</th>
-                    <td>$5490.00</td>
+                    <td>&#8377;{total}</td>
                 </tr>
             </table>
 
-            <button className='payment-button' onClick={openModal}>Pay $5490.00</button>
+            <button className='payment-button' onClick={openModal}>Pay &#8377;{total}</button>
 
         </section>
     )
