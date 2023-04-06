@@ -17,7 +17,7 @@ function ProductDetails() {
 
     const [numberOfProduct, setNumberOfProducts] = React.useState(1)
 
-    const productImageData = [images.main].concat(images.secondary)
+    const productImageData = typeof (images) == 'object' ? [images.main].concat(images.secondary) : [images]
     const [heroImage, setHeroImage] = React.useState(typeof (images) == 'object' ? images.main : images)
 
     function increaseNumberOfProducts() {

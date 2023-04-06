@@ -10,6 +10,9 @@ import products from '../../database/product_card_data'
 function BestSellersListing() {
     const clothingJSON = require('../../data/data_new.json')
     const electronicsJSON = require('../../data/electronics.json')
+    const cerealJSON = require('../../data/cereal.json')
+    const booksJSON = require('../../data/books.json')
+    const groceryJSON = require('../../data/grocery.json')
     const [data, setData] = React.useState(electronicsJSON)
     
     const cardsss = data.slice(0,10).map(
@@ -34,6 +37,18 @@ function BestSellersListing() {
         setData(clothingJSON)
     }
 
+    function cerealData(){
+        setData(cerealJSON)
+    }
+
+    function booksData(){
+        setData(booksJSON)
+    }
+
+    function groceryData(){
+        setData(groceryJSON)
+    }
+
     function productData(){
         console.log('p');
     }
@@ -49,12 +64,12 @@ function BestSellersListing() {
                 <ul className='best-sellers-categories'>
                     <li><button id='electronics' onClick={electronicsData}>Electronics</button></li>
                     <li><button id='cloths' onClick={clothingData}>Cloths</button></li>
-                    <li><button onClick={productData}>Gadget</button></li>
-                    <li><button onClick={travelData}>Fashion</button></li>
-                    <li><button onClick={productData}>Toys</button></li>
-                    <li><button onClick={travelData}>Education</button></li>
+                    <li><button onClick={cerealData}>Cereal</button></li>
+                    <li><button onClick={booksData}>Books</button></li>
+                    <li><button onClick={groceryData}>Grocery</button></li>
+                    {/* <li><button onClick={travelData}>Education</button></li>
                     <li><button onClick={productData}>Fitness</button></li>
-                    <li><button onClick={travelData}>Sneakers</button></li>
+                    <li><button onClick={travelData}>Sneakers</button></li> */}
                 </ul>
             </section>
             <section className='best-sellers-cards'>

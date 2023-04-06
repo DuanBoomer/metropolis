@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Kellogg’s Froot Loops 285g",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81mG4m+EUUL._AC_UL320_.jpg",
+        "short_description": "Kellogg’s Froot Loops 285g, Mixed Fruit Flavor | Power of 5: Energy, Protein, Iron, Calcium, Vitamins B1, B2, B3 & C | Crunchy Multigrain Breakfast Cereal for Kids",
+        "price": "169",
+        "rating": "4.0"
+    },
+    {
+        "name": "Kellogg's Muesli 21% Fruit",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/91i9rdecBvL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Muesli 21% Fruit, Nut & Seeds 750g | 5 Grains, High in Vitamins B1, B2, B3, B6, Folate, Source of Protein and Fibre, Multigrain Breakfast Cereal",
+        "price": "394",
+        "rating": "4.5"
+    },
+    {
+        "name": "Wingreens Monsoon Harvest Oats Clusters & Ragi Flakes with Strawberry| Oats",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/61qhz6DHkfL._AC_UL320_.jpg",
+        "short_description": "Wingreens Monsoon Harvest Oats Clusters & Ragi Flakes with Strawberry| Oats, Flax Seeds, Granola| Breakfast Cereal| 350 g",
+        "price": "228",
+        "rating": "4.2"
+    },
+    {
+        "name": "Kellogg's Crunchy Granola Almonds and Cranberries | Breakfast Cereals | Multigrain Flakes",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/91KZBHX-d-L._AC_UL320_.jpg",
+        "short_description": "Kellogg's Crunchy Granola Almonds and Cranberries | Breakfast Cereals | Multigrain Flakes, 460g",
+        "price": "315",
+        "rating": "4.5"
+    },
+    {
+        "name": "Post Oreo O's Cereal",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/91ouYH54JWL._AC_UL320_.jpg",
+        "short_description": "Post Oreo O's Cereal, 311 g",
+        "price": "710",
+        "rating": "4.1"
+    },
+    {
+        "name": "Kellogg's Muesli 20% Nuts Delight 1kg | Almonds & Raisins",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/61myXbFauoL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Muesli 20% Nuts Delight 1kg | Almonds & Raisins, 5 Grains, High in Iron, Vitamins B1, B2, B3, B6, Folate and Fibre, Multigrain Breakfast Cereal",
+        "price": "515",
+        "rating": "4.4"
+    },
+    {
+        "name": "Kellogg's Corn Flakes Real Almond Honey 300g | High in Iron",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81LshAMXAAL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Corn Flakes Real Almond Honey 300g | High in Iron, Vitamin B1, B2, B3, B6 & C | Naturally Cholesterol Free | Corn Flakes, Breakfast Cereal",
+        "price": "195",
+        "rating": "4.4"
+    },
+    {
+        "name": "Kellogg's Crunchy Bites 375g | Source of Calcium",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/619JR4sBE1L._AC_UL320_.jpg",
+        "short_description": "Kellogg's Crunchy Bites 375g | Source of Calcium, High in Protein, with 10 Essential Vitamins & Minerals, Source of Fibre | Breakfast Cereal for Kids",
+        "price": "195",
+        "rating": "4.5"
+    },
+    {
+        "name": "Kellogg's Corn Flakes Original 1.2kg | Power of 5: Energy",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81ZhOj8OojL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Corn Flakes Original 1.2kg | Power of 5: Energy, Protein, Iron, Calcium, Vitamins B1, B2, B3 & C| Corn Flakes, Breakfast Cereal | Naturally Cholestrol Free",
+        "price": "391",
+        "rating": "4.5"
+    },
+    {
+        "name": "Yogabar Dark Chocolate Oatmeal 400g - Gluten Free Whole Oatmeal for Breakfast - Healthy Breakfast Cereal with High Protein Oats - Healthy Dessert Pudding -",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71VB4xBzEwL._AC_UL320_.jpg",
+        "short_description": "Yogabar Dark Chocolate Oatmeal 400g - Gluten Free Whole Oatmeal for Breakfast - Healthy Breakfast Cereal with High Protein Oats - Healthy Dessert Pudding -",
+        "price": "149",
+        "rating": "4.3"
+    },
+    {
+        "name": "Kellogg's Corn Flakes Real Almond Honey 1kg | High in Iron",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81AToCjQ48L._AC_UL320_.jpg",
+        "short_description": "Kellogg's Corn Flakes Real Almond Honey 1kg | High in Iron, Vitamin B1, B2, B3, B6 & C | Naturally Cholesterol Free | Corn Flakes, Breakfast Cereal",
+        "price": "571",
+        "rating": "4.5"
+    },
+    {
+        "name": "Slurrp Farm Baby Cereal",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/712nf+Oss3L._AC_UL320_.jpg",
+        "short_description": "Slurrp Farm Baby Cereal, Ragi, Rice and Strawberry with Milk, Instant Healthy Food, NO Sugar NO Salt, Mildly Sweetened with Date Powder, 200 g",
+        "price": "349",
+        "rating": "4.2"
+    },
+    {
+        "name": "Kellogg's Chocos Fills 250g | Double Chocolaty",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71EesMJmIqL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Chocos Fills 250g | Double Chocolaty, Anytime Snack | 3 Grains: Oats, Wheat & Rice, Protein & Vitamin Rich, 0% Maida | Multigrain Goodness",
+        "price": "175",
+        "rating": "4.4"
+    },
+    {
+        "name": "Kellogg's Crunchy Granola Chocolate & Almonds 450g | 15% Almonds",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/51ClTfjNLSL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Crunchy Granola Chocolate & Almonds 450g | 15% Almonds, Baked Multigrain | Golden Wheat, Nutritious Oats, Crispy Corn & Barley, Source of Fibre | Breakfast Cereal",
+        "price": "320",
+        "rating": "4.4"
+    },
+    {
+        "name": "Kellogg's Muesli 0% Added Sugar 500g | 20% Almonds & Raisins | 5 Grains",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/91w-P8pFRKL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Muesli 0% Added Sugar 500g | 20% Almonds & Raisins | 5 Grains, High in Vitamins B1, B2, B3, B6, Folate, Source of Protein and Fibre | Breakfast Cereal",
+        "price": "334",
+        "rating": "4.4"
+    },
+    {
+        "name": "Kellogg's Special K Original 900g\/935g with Whole Wheat | Only 2% Fat",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/61X2QdL-ALL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Special K Original 900g\/935g with Whole Wheat | Only 2% Fat, Source of Protein & Fibre | Naturally Low Fat | Naturally Cholesterol Free | Ready To Eat Breakfast Cereal",
+        "price": "440",
+        "rating": "4.4"
+    },
+    {
+        "name": "Manna Breakfast Cereal (Multigrain) Chocos for Kids 300g",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71B-7o+8ZML._AC_UL320_.jpg",
+        "short_description": "Manna Breakfast Cereal (Multigrain) Chocos for Kids 300g, Real Chocolate | Millets, Nuts & Raisins | Go Grains Crunchies",
+        "price": "164",
+        "rating": "4.5"
+    },
+    {
+        "name": "NESTLE Koko Krunch Choco Burst Cereal 500g | Choco Flakes made with 3 Grains and No Maida | Contains Immuno-Nutrients",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/814sb0oLQ2L._AC_UL320_.jpg",
+        "short_description": "NESTLE Koko Krunch Choco Burst Cereal 500g | Choco Flakes made with 3 Grains and No Maida | Contains Immuno-Nutrients",
+        "price": "339",
+        "rating": "4.2"
+    },
+    {
+        "name": "Weetabix Breakfast Cereals",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71Vn4DmKK5L._AC_UL320_.jpg",
+        "short_description": "Weetabix Breakfast Cereals, 15.87 oz \/ 450 g",
+        "price": "329",
+        "rating": "4.0"
+    },
+    {
+        "name": "Yogabar Breakfast Cereal & Muesli | 91% Fruit and Nut + Seeds + Whole-Grains | 400g | Healthy Breakfast Cereals | Granola | Gluten Free | Antioxidant Rich | Healthy Food for Breakfast | Protein Rich",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81kWVuhlvyL._AC_UL320_.jpg",
+        "short_description": "Yogabar Breakfast Cereal & Muesli | 91% Fruit and Nut + Seeds + Whole-Grains | 400g | Healthy Breakfast Cereals | Granola | Gluten Free | Antioxidant Rich | Healthy Food for Breakfast | Protein Rich",
+        "price": "299",
+        "rating": "4.4"
+    },
+    {
+        "name": "Kellogg's Crunchy Granola Honey",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/41OCHw5qJzL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Crunchy Granola Honey, Almonds, Strawberries & Pumpkin Seeds 450g | 24% Fruit, Nut & Seeds, Baked Multigrain | Source of Fibre | Breakfast Cereal",
+        "price": "318",
+        "rating": "4.5"
+    },
+    {
+        "name": "Kellogg’s All Bran Wheat Flakes 440g | Made with Whole Grain",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71ddUpQHXRL._AC_UL320_.jpg",
+        "short_description": "Kellogg’s All Bran Wheat Flakes 440g | Made with Whole Grain, 7 Essential Vitamins and Iron | High in Protein & Fibre | Breakfast Cereal",
+        "price": "242",
+        "rating": "4.3"
+    },
+    {
+        "name": "Slurrp Farm No Sugar",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71mCf7tZA-L._AC_UL320_.jpg",
+        "short_description": "Slurrp Farm No Sugar, No Salt Ragi, Almond and Banana Cereal | 100% Sprouted Ragi | Healthy Cereal for Baby | No Milk | No Preservatives, 200g",
+        "price": "349",
+        "rating": "4.0"
+    },
+    {
+        "name": "Yogabar Choco Cereal 345g | No Maida Chocos for Kids | Delicious Chocolate Chocos | Healthy Protein Food & Breakfast Cereal | 100% Vegan & No Preservatives",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81r8fqP6xlL._AC_UL320_.jpg",
+        "short_description": "Yogabar Choco Cereal 345g | No Maida Chocos for Kids | Delicious Chocolate Chocos | Healthy Protein Food & Breakfast Cereal | 100% Vegan & No Preservatives",
+        "price": "104",
+        "rating": "4.6"
+    },
+    {
+        "name": "Monsoon Harvest Toasted Millet Muesli 1kg",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/61zSCR4UbLL._AC_UL320_.jpg",
+        "short_description": "Monsoon Harvest Toasted Millet Muesli 1kg, Cranberry & Almond, Natural, Breakfast Cereal, Healthy Gluten-Free Cereals with Whole Grains, Dried Fruits, Nuts and Seeds, Saver Pack, Zero White Sugar",
+        "price": "535",
+        "rating": "4.5"
+    },
+    {
+        "name": "Slurrp Farm Multigrain Millets Cereal with Mixed Fruits and Rice Crispies | Rice & Jowar Cereal | 100% Sprouted Ragi | Instant Baby Food | No Refined Sugar | No Preservatives | Great for Travel",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71KZyQjydWL._AC_UL320_.jpg",
+        "short_description": "Slurrp Farm Multigrain Millets Cereal with Mixed Fruits and Rice Crispies | Rice & Jowar Cereal | 100% Sprouted Ragi | Instant Baby Food | No Refined Sugar | No Preservatives | Great for Travel, 300g",
+        "price": "297",
+        "rating": "4.2"
+    },
+    {
+        "name": "Yogabar Dark Chocolate & Cranberry Muesli with chia and flax seeds 500g - Breakfast Cereal with 83% Nuts and Seeds",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71HGI3kVZFL._AC_UL320_.jpg",
+        "short_description": "Yogabar Dark Chocolate & Cranberry Muesli with chia and flax seeds 500g - Breakfast Cereal with 83% Nuts and Seeds, Dried Fruits, and Whole Grains - Vegan and Gluten Free Snack",
+        "price": "225",
+        "rating": "4.4"
+    },
+    {
+        "name": "NESTLE Koko Krunch Cereal 350g | Choco Flakes made with 3 Grains and No Maida | Contains Immuno-Nutrients",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81OCNvVl9YL._AC_UL320_.jpg",
+        "short_description": "NESTLE Koko Krunch Cereal 350g | Choco Flakes made with 3 Grains and No Maida | Contains Immuno-Nutrients",
+        "price": "170",
+        "rating": "4.3"
+    },
+    {
+        "name": "CEREGROW Nestle Growing Up Cereal - Multigrain Cereal with Milk & Fruits - Box",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/61ejYZWWIYL._AC_UL320_.jpg",
+        "short_description": "CEREGROW Nestle Growing Up Cereal - Multigrain Cereal with Milk & Fruits - Box, 300g",
+        "price": "284",
+        "rating": "4.5"
+    },
+    {
+        "name": "Bagrry's Choco+ with 3 Great Grains(Oats+Whole Wheat+Rice)",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71eixG5HTxL._AC_UL320_.jpg",
+        "short_description": "Bagrry's Choco+ with 3 Great Grains(Oats+Whole Wheat+Rice), Kids Cereal 1.2kg Pouch| No Maida | Yummy Breakfast Cereal",
+        "price": "424",
+        "rating": "4.3"
+    },
+    {
+        "name": "WEETABIX Original",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71XDJ-3HF5L._AC_UL320_.jpg",
+        "short_description": "WEETABIX Original, 450GM (94015)",
+        "price": "320",
+        "rating": "4.2"
+    },
+    {
+        "name": "KOKO KRUNCH NESTLE Cereal 1kg | Choco Flakes made with 3 Grains and No Maida | Contains Immuno-Nutrients",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81U49l0BaDL._AC_UL320_.jpg",
+        "short_description": "KOKO KRUNCH NESTLE Cereal 1kg | Choco Flakes made with 3 Grains and No Maida | Contains Immuno-Nutrients",
+        "price": "315",
+        "rating": "4.7"
+    },
+    {
+        "name": "NESTLE GOLD Crunchy Nutty Granola",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81uRyn9gYVL._AC_UL320_.jpg",
+        "short_description": "NESTLE GOLD Crunchy Nutty Granola, Breakfast Cereal - 475g",
+        "price": "231",
+        "rating": "4.2"
+    },
+    {
+        "name": "Kellogg's Corn Flakes Real Almond Honey | Breakfast Cereals | High in Vitamin B1",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/5191aS0O-hL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Corn Flakes Real Almond Honey | Breakfast Cereals | High in Vitamin B1, B2, B3, B6 & C| High in Iron | Naturally Cholesterol Free | 180gm Pack",
+        "price": "94",
+        "rating": "4.3"
+    },
+    {
+        "name": "General Mills Cereal Cookie Crisp Cho",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/91qV+NPw-sL._AC_UL320_.jpg",
+        "short_description": "General Mills Cereal Cookie Crisp Cho, 318g",
+        "price": "690",
+        "rating": "3.4"
+    },
+    {
+        "name": "Kellogg's Corn Flakes with Real Strawberry Puree 575g | High in Iron",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71Qast1ngHL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Corn Flakes with Real Strawberry Puree 575g | High in Iron, Vitamins B1, B2, B3, B6, C | Corn Flakes, Breakfast Cereal | Naturally Cholestrol Free",
+        "price": "315",
+        "rating": "4.4"
+    },
+    {
+        "name": "Quaker Oats Muesli 700g",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81EQvapxkkL._AC_UL320_.jpg",
+        "short_description": "Quaker Oats Muesli 700g, Berries & Seeds flavour, Breakfast Oats Cereal",
+        "price": "345",
+        "rating": "4.2"
+    },
+    {
+        "name": "Kellogg's Chocos 385g with Whole Grain | Protein & Fibre of 1 Roti* in each bowl**| High in Calcium & Protein",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/61CpsSGMlvL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Chocos 385g with Whole Grain | Protein & Fibre of 1 Roti* in each bowl**| High in Calcium & Protein, 10 Essential Vitamins & Minerals | Breakfast Cereal for Kids",
+        "price": "190",
+        "rating": "4.4"
+    },
+    {
+        "name": "Bagrry's Corn Flakes Plus 800gm (with Extra 80gm) Pouch | Original and Healthier | Low Fat & Cholesterol | High Fibre | All Natural CornFlakes |Breakfast Cereal",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81mBSoS6ibL._AC_UL320_.jpg",
+        "short_description": "Bagrry's Corn Flakes Plus 800gm (with Extra 80gm) Pouch | Original and Healthier | Low Fat & Cholesterol | High Fibre | All Natural CornFlakes |Breakfast Cereal",
+        "price": "199",
+        "rating": "4.3"
+    },
+    {
+        "name": "Quaker Oats 1kg",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71d0wtpbxJL._AC_UL320_.jpg",
+        "short_description": "Quaker Oats 1kg, Rolled Oats Natural Wholegrain, Nutritious Breakfast Cereals, Dalia Porridge, Easy to Cook",
+        "price": "174",
+        "rating": "4.4"
+    },
+    {
+        "name": "Kellogg's Chocos Variety Pack 168g | Breakfast Cereal for Kids",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71stDXSgbHL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Chocos Variety Pack 168g | Breakfast Cereal for Kids",
+        "price": "64",
+        "rating": "4.4"
+    },
+    {
+        "name": "Yogabar Dark Chocolate & Cranberry Muesli 700g - Breakfast Cereal with 83% Nuts & Seeds",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71odTpNfelL._AC_UL320_.jpg",
+        "short_description": "Yogabar Dark Chocolate & Cranberry Muesli 700g - Breakfast Cereal with 83% Nuts & Seeds, Dried Fruits, & Whole Grains - Vegan & Gluten Free Snack",
+        "price": "429",
+        "rating": "4.5"
+    },
+    {
+        "name": "Nestle Honey Cheerios 5 Whole Grain Cereal",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/51-CKw0ggfL._AC_UL320_.jpg",
+        "short_description": "Nestle Honey Cheerios 5 Whole Grain Cereal, 375g",
+        "price": "567",
+        "rating": "4.1"
+    },
+    {
+        "name": "Kellogg's Muesli 21% Fruit",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/615Cha0wdjS._AC_UL320_.jpg",
+        "short_description": "Kellogg's Muesli 21% Fruit, Nut & Seeds 240g | 5 Grains, High in Vitamins B1, B2, B3, B6, Folate, Source of Protein and Fibre, Multigrain Breakfast Cereal",
+        "price": "180",
+        "rating": "4.4"
+    },
+    {
+        "name": "Quaker Oats 2kg | Rolled Oats | 100% Natural Wholegrain | Nutritious Breakfast Cereals | Porridge | Easy to Cook",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/61SHF0RYZDL._AC_UL320_.jpg",
+        "short_description": "Quaker Oats 2kg | Rolled Oats | 100% Natural Wholegrain | Nutritious Breakfast Cereals | Porridge | Easy to Cook",
+        "price": "318",
+        "rating": "4.5"
+    },
+    {
+        "name": "Cocoa Pebbles Chocolate Flavoured Rice Cereal with Real Cocoa",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/81mUJDA9sTL._AC_UL320_.jpg",
+        "short_description": "Cocoa Pebbles Chocolate Flavoured Rice Cereal with Real Cocoa, 311 g",
+        "price": "630",
+        "rating": "4.3"
+    },
+    {
+        "name": "Kellogg's Chocos 1.2kg\/1.15kg with Whole Grain | Protein & Fibre of 1 Roti* in each bowl**| High in Calcium & Protein",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/61umxfftE-L._AC_UL320_.jpg",
+        "short_description": "Kellogg's Chocos 1.2kg\/1.15kg with Whole Grain | Protein & Fibre of 1 Roti* in each bowl**| High in Calcium & Protein, 10 Essential Vitamins & Minerals | Breakfast Cereal for Kids",
+        "price": "494",
+        "rating": "4.5"
+    },
+    {
+        "name": "Kellogg's Special K Original with Whole Wheat | Only 2% Fat",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/61-BUCkRsKL._AC_UL320_.jpg",
+        "short_description": "Kellogg's Special K Original with Whole Wheat | Only 2% Fat, Source of Protein & Fibre | Naturally Low Fat | Naturally Cholesterol Free | Ready To Eat Breakfast Cereal 435g\/455g (Weight May Vary)",
+        "price": "245",
+        "rating": "4.4"
+    }
+]
